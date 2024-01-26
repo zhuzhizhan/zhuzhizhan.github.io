@@ -99,16 +99,22 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "GitHUb",
+        href: "https://github.com"
     },{
         title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        href: "http://www.jianshu.com/u/7fc21308122f"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "Grep",
+        href: "https://grep.app/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Google",
+        href: "https://www.google.com.hk/?gws_rd=ssl"
+    },{
+        title: "chatGPT",
+        href: "https://chat.openai.com/auth/login"
+    },{
+        title: "SparkDesk",
+        href: "https://xinghuo.xfyun.cn/desk"
     }
 ]
