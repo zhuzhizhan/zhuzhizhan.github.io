@@ -102,7 +102,7 @@ friends: [
         title: "GitHUb",
         href: "https://github.com"
     },{
-        title: "简书·BY",
+        title: "简书",
         href: "http://www.jianshu.com/u/7fc21308122f"
     },{
         title: "Grep",
@@ -111,10 +111,37 @@ friends: [
         title: "Google",
         href: "https://www.google.com.hk/?gws_rd=ssl"
     },{
-        title: "chatGPT",
+        title: "ChatGPT",
         href: "https://chat.openai.com/auth/login"
     },{
         title: "SparkDesk",
         href: "https://xinghuo.xfyun.cn/desk"
+    },{
+        title: "超能搜",
+        href: "https://www.chaonengso.com/"
+    },{
+        title: "Wiki",
+        href: "https://en.wikipedia.org/wiki/Main_Page"
+    },{
+        title: "TopCPU",
+        href: "https://www.topcpu.net/"
+    },{
+        title: "SCI-Hub",
+        href: "https://sci-hub.wf/"
+    },{
+        title: "百度翻译",
+        href: "https://fanyi.baidu.com/?aldtype=16047#auto/zh"
+    },{
+        title: "国内开源镜像网站列表",
+        href: "https://blog.csdn.net/vencentle/article/details/82693759"
+    },{
+        title: "Bing",
+        href: "https://www.bing.com/"
+    },{
+        title: "鸠摩搜索",
+        href: "https://www.jiumodiary.com/"
+    },{
+        title: "AlternativeTo",
+        href: "https://alternativeto.net/"
     }
 ]
