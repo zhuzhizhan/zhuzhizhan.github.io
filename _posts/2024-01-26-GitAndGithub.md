@@ -43,5 +43,26 @@ git submodule update --init --recursive
     1.添加ssh key
     2.git remote set-url origin git@github.com:zhuzhizhan/zhuzhizhan.github.io.git
     zhuzhizhan为账户名，zhuzhizhan.github.io为项目名
+    git remote set-url origin git@github.com:zhuzhizhan/zhuzhizhan.github.io.git
+
+### 8.github初始仓库创建
+
+### …or create a new repository on the command line
+
+    echo "# simulation-matlab" >> README.md
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git branch -M main
+    git remote add origin https://github.com/zhuzhizhan/simulation-matlab.git
+    git push -u origin main
+
+### …or push an existing repository from the command line
+
+    git remote add origin https://github.com/zhuzhizhan/simulation-matlab.git
+    git branch -M main
+    git push -u origin main
+
+### 9.git push --set-upstream origin master
 
 
